@@ -1,0 +1,52 @@
+goi_residue,aa,source,evidence
+7,A,conservation,JSD=0.695
+10,G,literature,"Family fingerprint loop (GxSxxA) (from Q9NXC2 #9, PMID 38946427)"
+11,T,literature,"Family fingerprint loop (GxSxxA) (from Q9NXC2 #10, PMID 38946427)"
+12,G,literature,"Family fingerprint loop (GxSxxA) (from Q9NXC2 #11, PMID 38946427)"
+13,V,literature,"Family fingerprint loop (GxSxxA) (from Q9NXC2 #12, PMID 38946427)"
+14,S,literature,"Family fingerprint loop (GxSxxA) (from Q9NXC2 #13, PMID 38946427)"
+15,A,literature,"Family fingerprint loop (GxSxxA) (from Q9NXC2 #14, PMID 38946427)"
+37,E,literature,"Bulky/charged substitutions that prevent cofactor docking (pseudoenzyme) (from Q9NXC2 #32, PMID 38946427)"
+38,R,literature,"Bulky/charged substitutions that prevent cofactor docking (pseudoenzyme) (from Q9NXC2 #33, PMID 38946427)"
+39,R,literature,"Bulky/charged substitutions that prevent cofactor docking (pseudoenzyme) (from Q9NXC2 #34, PMID 38946427)"
+44,Q,literature,"Bulky/charged substitutions that prevent cofactor docking (pseudoenzyme) (from Q9NXC2 #38, PMID 38946427)"
+70,E,conservation,JSD=0.703
+81,H,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #75, PMID 11073908)"
+82,S,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #76, PMID 11073908)"
+83,E,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #77, PMID 11073908)"
+84,I,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #78, PMID 11073908)"
+85,V,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #79, PMID 11073908)"
+86,K,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #80, PMID 11073908)"
+87,K,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #81, PMID 11073908)"
+88,A,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #82, PMID 11073908)"
+89,L,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #83, PMID 11073908)"
+90,N,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #84, PMID 11073908)"
+91,A,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #85, PMID 11073908)"
+92,G,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #86, PMID 11073908)"
+93,K,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #87, PMID 11073908)"
+94,H,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #88, PMID 11073908)"
+95,V,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #89, PMID 11073908)"
+96,V,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #90, PMID 11073908)"
+97,C,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #91, PMID 11073908)"
+98,E,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #92, PMID 11073908)"
+99,K,literature,"Catalytic dyad/triad (Tyr180 acid/base, Lys97 stabilizes, Asp176 active center) (from Q9TQS6 #97, PMID 17654552)"
+100,P,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #94, PMID 11073908)"
+101,F,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #95, PMID 11073908)"
+102,T,literature,"Signature region of carboxylated cis-dihydrodiol dehydrogenases (from Q9KWL3 #96, PMID 11073908)"
+104,T,conservation,JSD=0.697
+107,E,conservation,JSD=0.701
+115,A,conservation,JSD=0.746
+127,N,literature,"Hydrophobic substrate/inhibitor-binding pocket (Trp125, Phe154, Trp254, Phe279) (from Q9TQS6 #125, PMID 18453689)"
+129,R,conservation,JSD=0.753
+130,W,conservation,JSD=0.665
+138,K,conservation,JSD=0.672
+161,L,literature,"Hydrophobic substrate/inhibitor-binding pocket (Trp125, Phe154, Trp254, Phe279) (from Q9TQS6 #154, PMID 18453689)"
+166,G,literature,"PPI interface residue (GFOD1 Tyr160 with NKIRAS2) (from Q9NXC2 #160, PMID 38946427)"
+180,Y,literature,"Catalytic residues (Asp168, Asn172); D168 mutation abolishes activity (from Q53TZ2 #168, PMID 16326697)"
+185,H,conservation,JSD=0.800
+187,I,literature,"Catalytic residues (Asp168, Asn172); D168 mutation abolishes activity (from Q53TZ2 #172, PMID 16326697)"
+188,D,literature,"Catalytic dyad/triad (Tyr180 acid/base, Lys97 stabilizes, Asp176 active center) (from Q9TQS6 #176, PMID 17654552)"
+198,Y,literature,"Catalytic dyad/triad (Tyr180 acid/base, Lys97 stabilizes, Asp176 active center) (from Q9TQS6 #180, PMID 17654552)"
+255,G,conservation,JSD=0.764
+287,R,literature,"Hydrophobic substrate/inhibitor-binding pocket (Trp125, Phe154, Trp254, Phe279) (from Q9TQS6 #254, PMID 18453689)"
+315,P,literature,"Hydrophobic substrate/inhibitor-binding pocket (Trp125, Phe154, Trp254, Phe279) (from Q9TQS6 #279, PMID 18453689)"

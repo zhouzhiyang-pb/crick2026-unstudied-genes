@@ -1,0 +1,4 @@
+open /Users/phoebezhou/Desktop/AI/agent_reach/Crick2026rep/SPBC115.03/alphafold/O42896.pdb
+color :10,11,12,13,14,15,37,38,39,44,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,127,161,166,180,187,188,198,287,315 orange
+color :7,70,104,107,115,129,130,138,185,255 yellow
+save /Users/phoebezhou/Desktop/AI/agent_reach/Crick2026rep/SPBC115.03/O42896_candidates.png

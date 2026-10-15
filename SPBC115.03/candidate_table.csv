@@ -1,0 +1,21 @@
+source,uniprot_ac,reviewed,tier,evidence_codes,pubmed_ids,protein_name
+OMA,A0A024SMV2,reviewed,star,"ECO:0000269,ECO:0000303,ECO:0000305",18031347,D-xylose 1-dehydrogenase (NADP(+))
+PANTHER,O07564,reviewed,star,"ECO:0000269,ECO:0000305,ECO:0000314","14612444,17056753,23586652",Glucose-6-phosphate 3-dehydrogenase
+OMA & PANTHER,O13991,reviewed,triangle,"ECO:0000305,ECO:0007005",16823372,Uncharacterized oxidoreductase C26H5.09c
+PANTHER,O32223,reviewed,star,"ECO:0000269,ECO:0000303,ECO:0000305,ECO:0000314,ECO:0007829","20133360,22383849,28043209",scyllo-inositol 2-dehydrogenase (NADP(+)) IolW
+OMA & PANTHER,O42896,reviewed,triangle,"ECO:0000305,ECO:0007005",16823372,Uncharacterized oxidoreductase C115.03
+PANTHER,P04387,reviewed,star,"ECO:0000269,ECO:0000303,ECO:0000305,ECO:0000314,ECO:0000315,ECO:0000353,ECO:0007829","10866670,11964151,14562106,18467557,18952899,18957435,1985957,20979343,23858060,6092916,9111326,9811836",Galactose/lactose metabolism regulatory protein GAL80
+PANTHER,P37168,reviewed,triangle,ECO:0000305,"2680969,8288531",Putative oxidoreductase YceM
+PANTHER,P46853,reviewed,star,"ECO:0000305,ECO:0000314,ECO:0007829",18304323,Uncharacterized oxidoreductase YhhX
+PANTHER,P75931,reviewed,triangle,"ECO:0000305,ECO:0007829",,Putative oxidoreductase YceM
+PANTHER,P77376,reviewed,triangle,ECO:0000305,,Uncharacterized oxidoreductase YdgJ
+PANTHER,P94437,reviewed,triangle,ECO:0000305,,Uncharacterized oxidoreductase YfiI
+OMA,Q148L6,reviewed,triangle,"ECO:0000250,ECO:0000305",,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+OMA,Q642M9,reviewed,triangle,"ECO:0000250,ECO:0000305",,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+OMA,Q6DF30,reviewed,triangle,"ECO:0000250,ECO:0000305",,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+OMA,Q6DKE0,reviewed,triangle,"ECO:0000250,ECO:0000305",,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+OMA,Q9DBB8,reviewed,star,"ECO:0000250,ECO:0000305,ECO:0000312,ECO:0000314",6753830,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+OMA,Q9TQS6,reviewed,star,"ECO:0000250,ECO:0000269,ECO:0000305,ECO:0007744,ECO:0007829","10477285,17654552,18453689","Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+OMA,Q9TV68,reviewed,star,"ECO:0000269,ECO:0000305","10477285,11306093,7852295","Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+OMA,Q9UQ10,reviewed,star,"ECO:0000250,ECO:0000269,ECO:0000303,ECO:0000305,ECO:0000312",10477285,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase"
+OMA,Q9UT60,reviewed,star,"ECO:0000250,ECO:0000269,ECO:0000305,ECO:0000312,ECO:0007005",16823372,Probable D-xylose 1-dehydrogenase (NADP(+))

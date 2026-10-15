@@ -1,0 +1,5 @@
+open /Users/phoebezhou/Desktop/AI/agent_reach/Crick2026rep/SPAPB1A10.12c/alphafold/Q9HDX8.pdb
+color :61 red
+color :118,119,134,223,247,355,358,360,362,382,384,386,388,419 orange
+color :1,20,34,58,62,97,127,179,182,188,231,250,327,416,417,432,446,447 yellow
+save /Users/phoebezhou/Desktop/AI/agent_reach/Crick2026rep/SPAPB1A10.12c/Q9HDX8_candidates.png

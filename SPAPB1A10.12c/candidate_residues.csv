@@ -1,0 +1,34 @@
+goi_residue,aa,source,evidence
+1,M,conservation,JSD=0.875
+20,W,conservation,JSD=0.905
+34,P,conservation,JSD=0.880
+58,G,conservation,JSD=0.806
+61,H,annotation,Modified residue 61 Pros-8alpha-FAD histidine
+62,S,conservation,JSD=0.840
+97,G,conservation,JSD=0.806
+118,G,literature,"Active-site pocket residues (from P9WJF1 #117, PMID 22733761)"
+119,S,literature,"Substrate coordination network (Ser106, Glu320, Thr345, Arg322, Lys375) (from Q9ZBU1 #106, PMID 18154360)"
+127,G,conservation,JSD=0.806
+134,H,literature,"Active-site pocket residues (from P9WJF1 #132, PMID 22733761)"
+179,G,conservation,JSD=0.806
+182,G,conservation,JSD=0.806
+188,T,conservation,JSD=0.807
+223,E,literature,"Inhibitor binding (Trp230, Leu363) (from P9WJF1 #230, PMID 24500695)"
+231,P,conservation,JSD=0.834
+247,N,literature,"Cap-domain Cys340 coordinating substrate (from Q9SU56 #340, PMID 19369590)"
+250,P,conservation,JSD=0.825
+327,P,conservation,JSD=0.833
+355,W,literature,"Substrate coordination network (Ser106, Glu320, Thr345, Arg322, Lys375) (from Q9ZBU1 #320, PMID 18154360)"
+358,E,literature,"Substrate coordination network (Ser106, Glu320, Thr345, Arg322, Lys375) (from Q9ZBU1 #322, PMID 18154360)"
+360,R,literature,"Active-site pocket residues (from P9WJF1 #365, PMID 22733761)"
+362,C,literature,"Active-site pocket residues (from P9WJF1 #367, PMID 22733761)"
+382,Y,literature,"Active-site pocket residues (from P9WJF1 #385, PMID 22733761)"
+384,E,literature,"Catalytic nucleophile (Cys387) (from P9WJF1 #387, PMID 22733761)"
+386,I,literature,"Back-door residue (His343) for substrate orientation (from Q9ZBU1 #343, PMID 18154360)"
+388,Y,literature,"Substrate coordination network (Ser106, Glu320, Thr345, Arg322, Lys375) (from Q9ZBU1 #345, PMID 18154360)"
+416,H,conservation,JSD=0.876
+417,W,conservation,JSD=0.903
+419,K,literature,"Substrate coordination network (Ser106, Glu320, Thr345, Arg322, Lys375) (from Q9ZBU1 #375, PMID 18154360)"
+432,Y,conservation,JSD=0.813
+446,D,conservation,JSD=0.846
+447,P,conservation,JSD=0.880

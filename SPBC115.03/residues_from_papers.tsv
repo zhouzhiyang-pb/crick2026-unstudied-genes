@@ -1,0 +1,9 @@
+accession	residue	role	pmid
+Q9TQS6	180,97,176	Catalytic dyad/triad (Tyr180 acid/base, Lys97 stabilizes, Asp176 active center)	17654552
+Q9TQS6	125,154,254,279	Hydrophobic substrate/inhibitor-binding pocket (Trp125, Phe154, Trp254, Phe279)	18453689
+Q53TZ2	168,172	Catalytic residues (Asp168, Asn172); D168 mutation abolishes activity	16326697
+Q9KWL3	75-96	Signature region of carboxylated cis-dihydrodiol dehydrogenases	11073908
+Q9NXC2	9-14	Family fingerprint loop (GxSxxA)	38946427
+Q9NXC2	32,33,34,38	Bulky/charged substitutions that prevent cofactor docking (pseudoenzyme)	38946427
+Q9NXC2	94,179	Conserved at catalytic/substrate positions of active GFOR enzymes	38946427
+Q9NXC2	160	PPI interface residue (GFOD1 Tyr160 with NKIRAS2)	38946427

@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Regenerable large data
+*/OMA/
+*/PANTHER/
+*/alphafold/
+*/tree/

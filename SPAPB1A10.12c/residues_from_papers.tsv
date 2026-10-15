@@ -1,0 +1,9 @@
+accession	residue	role	pmid
+Q9ZBU1	46	Covalent FAD attachment site (His46)	17517896
+Q9ZBU1	343	Back-door residue (His343) for substrate orientation	18154360
+Q9ZBU1	106,320,345,322,375	Substrate coordination network (Ser106, Glu320, Thr345, Arg322, Lys375)	18154360
+P9WJF1	387	Catalytic nucleophile (Cys387)	22733761
+P9WJF1	385,117,365,132,228,367	Active-site pocket residues	22733761
+P9WJF1	230,363	Inhibitor binding (Trp230, Leu363)	24500695
+Q9SU56	340	Cap-domain Cys340 coordinating substrate	19369590
+Q9SU56	56	Near flavin ring (Leu56); mutations disrupt FAD	18190525
